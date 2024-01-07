@@ -66,8 +66,8 @@
 </a>
 <a href="https://www.kaggle.com/alexandreremin" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-<a href="mailto:mister.cerf@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+<a href="https://vk.com/liza1507" target="_blank">
+    <img src="https://img.shields.io/badge/VK-%23000000.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK" style="margin-bottom: 5px;"/>
 </a>
 </a>  
 </div>  
