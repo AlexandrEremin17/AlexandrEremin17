@@ -81,4 +81,4 @@
 
  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexandrEremin17&color=fffff0&bg_color=0250154&line=8b0000&point=ff0000&area=true&hide_border=true)](https://github.com/AlexandrEremin17/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexandrEremin17&color=fffff0&bg_color=0250154&line=8b0000&point=ff0000&area=00ff7f&hide_border=true)](https://github.com/AlexandrEremin17/github-readme-activity-graph)
