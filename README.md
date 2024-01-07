@@ -140,4 +140,79 @@
 [![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexandrEremin17&color=fffff0&bg_color=0250154&line=8b0000&point=ff0000&area=true&area_color=ff1493&hide_border=true)](https://github.com/AlexandrEremin17/github-readme-activity-graph)
 
 
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Мой набор навыков</title>
+<style>
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .skills-section {
+    padding: 10px;
+    flex: 1;
+    min-width: 150px;
+  }
+  .skill-logo {
+    margin: 5px;
+    height: 50px;
+  }
+  .skills-header {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Мой набор навыков</h1>
+
+<div class="skills-container">
+
+  <div class="skills-section">
+    <div class="skills-header">Языки программирования</div>
+    <a href="https://www.python.org/" target="_blank"><img class="skill-logo" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"></a>
+  </div>
+
+  <div class="skills-section">
+    <div class="skills-header">База данных</div>
+    <a href="https://www.postgresql.org/" target="_blank"><img class="skill-logo" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img class="skill-logo" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL"></a>
+  </div>
+
+  <div class="skills-section">
+    <div class="skills-header">Визуализация</div>
+    <a href="https://grafana.com/" target="_blank"><img class="skill-logo" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana"></a>
+    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img class="skill-logo" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi"></a>
+  </div>
+
+  <div class="skills-section">
+    <div class="skills-header">DevOps</div>
+    <a href="https://www.docker.com/" target="_blank"><img class="skill-logo" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"></a>
+  </div>
+
+  <div class="skills-section">
+    <div class="skills-header">Другое</div>
+    <a href="https://about.gitlab.com/" target="_blank"><img class="skill-logo" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab"></a>
+    <a href="https://github.com/" target="_blank"><img class="skill-logo" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img class="skill-logo" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash"></a>
+  </div>
+
+</div>
+
+<h2>Дополнительные навыки</h2>
+<ul>
+  <li>Извлечение и обработка данных</li>
+  <li>Визуализация данных с использованием библиотек, таких как matplotlib, seaborn, Plotly</li>
+  <li>Машинное обучение и статистический анализ</li>
+  <li>Работа с библиотеками и фреймворками, такими как pandas, NumPy, scikit-learn, TensorFlow, PyTorch и др.</li>
+</ul>
+
+</body>
+</html>
+
  
