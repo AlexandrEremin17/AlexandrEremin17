@@ -1,7 +1,6 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg" align="center" heigth="200" />
-</div>  
-  
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg" style="width: 200px; height: 200px;" />
+</div>
 
 ### <div align="center">Всем привет 👋, меня зовут Александр!</div>  
   
