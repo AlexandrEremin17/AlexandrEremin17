@@ -80,7 +80,7 @@
 <br/>  
 
 
-<div align="center"><img src="https://AlexandrEremin17.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://Alexandr Eremin.github.io/static/images/spotify-readme-example.svg" /></div>  
 
  
 
