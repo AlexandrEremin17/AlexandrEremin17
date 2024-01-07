@@ -144,68 +144,107 @@
 
 [![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexandrEremin17&color=fffff0&bg_color=0250154&line=8b0000&point=ff0000&area=true&area_color=ff1493&hide_border=true)](https://github.com/AlexandrEremin17/github-readme-activity-graph)
 
-<table>
-  <tr>
-    <!-- Языки программирования -->
-    <td valign="top">
-      <div align="left">
-        <h2>Языки программирования:</h2>
-        <a href="https://www.python.org/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-        </a>
-      </div>
-    </td>
-    <!-- База данных -->
-    <td valign="top">
-      <div align="left">
-        <h2>База данных:</h2>
-        <a href="https://www.postgresql.org/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-        </a>
-        <a href="https://www.mysql.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-        </a>
-      </div>
-    </td>
-    <!-- Визуализация -->
-    <td valign="top">
-      <div align="left">
-        <h2>Визуализация:</h2>
-        <a href="https://grafana.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
-        </a>
-        <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <!-- DevOps -->
-    <td valign="top">
-      <div align="left">
-        <h2>DevOps:</h2>
-        <a href="https://www.docker.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-        </a>
-      </div>
-    </td>
-    <!-- Другое -->
-    <td valign="top" colspan="2">
-      <div align="left">
-        <h2>Другое:</h2>
-        <a href="https://about.gitlab.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-        </a>
-        <a href="https://github.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .skills-table {
+            width: 100%;
+            text-align: left;
+            border-collapse: collapse;
+        }
+        
+        .skills-table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+        
+        .skills-table tr:nth-child(even){background-color: #f2f2f2;}
+        
+        .skills-table tr:hover {background-color: #ddd;}
+        
+        .skills-table th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #04AA6D;
+            color: white;
+        }
+        
+        .skills-image {
+            height: 50px;
+            margin: 10px;
+        }
+        
+        .align-left {
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body>
+
+    <table class="skills-table">
+        <tr>
+            <th>Языки программирования</th>
+            <th>База данных</th>
+            <th>Визуализация</th>
+            <th>DevOps</th>
+            <th>Другое</th>
+        </tr>
+        <tr>
+            <!-- Языки программирования -->
+            <td>
+                <a href="https://www.python.org/" target="_blank">
+                    <img class="skills-image" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" />
+                </a>
+            </td>
+            
+            <!-- База данных -->
+            <td class="align-left">
+                <a href="https://www.postgresql.org/" target="_blank">
+                    <img class="skills-image" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" />
+                </a>
+                <a href="https://www.mysql.com/" target="_blank">
+                    <img class="skills-image" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" />
+                </a>
+            </td>
+            
+            <!-- Визуализация -->
+            <td class="align-left">
+                <a href="https://grafana.com/" target="_blank">
+                    <img class="skills-image" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" />
+                </a>
+                <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
+                    <img class="skills-image" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" />
+                </a>
+            </td>
+            
+            <!-- DevOps -->
+            <td>
+                <a href="https://www.docker.com/" target="_blank">
+                    <img class="skills-image" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" />
+                </a>
+            </td>
+            
+            <!-- Другое -->
+            <td class="align-left">
+                <a href="https://about.gitlab.com/" target="_blank">
+                    <img class="skills-image" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" />
+                </a>
+                <a href="https://github.com/" target="_blank">
+                    <img class="skills-image" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" />
+                </a>
+                <a href="https://www.gnu.org/software/bash/" target="_blank">
+                    <img class="skills-image" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" />
+                </a>
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
   
 
