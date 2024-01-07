@@ -38,7 +38,7 @@
 ### Мой набор навыков: 
 <tr><td valign="top" width="33%">
 
-<div align="center">  
+ 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -50,7 +50,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+ 
 Языки программирования: Python, R, SQL
 Извлечение и обработка данных
 Визуализация данных с использованием библиотек, таких как matplotlib, seaborn, Plotly
@@ -106,7 +106,4 @@
 [![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexandrEremin17&color=fffff0&bg_color=0250154&line=8b0000&point=ff0000&area=true&area_color=ff1493&hide_border=true)](https://github.com/AlexandrEremin17/github-readme-activity-graph)
 
 
-</p>
-
-<p align="left"> <a href="https://www.
-<h3 align="left"> Языки и инструменты:</h3> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg " alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com /" target="_blank" rel="noreferrer"> <изображение src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg " alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org /" target="_blank" rel="noreferrer"> <изображение src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg " alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org " target="_blank" rel="noreferrer"> <изображение src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg " alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com " target="_blank" rel="noreferrer"> <wbr> <img src="https://www.
+ 
