@@ -79,11 +79,6 @@
 <br/>  
 
 
-<div align="center"><img src="https://AlexandrEremin17.github.io/static/images/spotify-readme-example.svg" /></div>  
-
  
-
-<div align="center"></div>
-<br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexandrEremin17&color=ddddd0&bg_color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/AlexandrEremin17/github-readme-activity-graph)
