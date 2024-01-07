@@ -75,12 +75,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexandrEremin17&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlexandrEremin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-<div align="center"><img src="https://Alexandr Eremin.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://AlexandrEremin17.github.io/static/images/spotify-readme-example.svg" /></div>  
 
  
 
