@@ -69,6 +69,9 @@
 <a href="https://vk.com/liza1507" target="_blank">
     <img src="https://img.shields.io/badge/VK-%23000000.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK" style="margin-bottom: 5px;"/>
 </a>
+<a href="https://hh.ru/resume/8e27f53fff0caf8e760039ed1f446a49385872" target="_blank">
+  <img src="https://img.shields.io/badge/resume-%23000000.svg?&style=for-the-badge&logo=headhunter&logoColor=white" alt="resume" style="margin-bottom: 5px;" />
+</a>
 </a>  
 </div>  
   
